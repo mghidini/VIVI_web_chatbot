@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "title": "Attention and Focus",
+      "question": "You're on a first date at a cozy café. How likely are you to get distracted?",
+      "options": [
+        "I'm all ears, barely notice anything else",
+        "I might glance around occasionally",
+        "I often find my attention wandering",
+        "What was the question again? That dog is adorable!"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Organization and Time Management",
+      "question": "You've planned a romantic surprise for your partner. How often do you find yourself scrambling at the last minute, realizing you forgot a crucial detail?",
+      "options": [
+        "I'm always prepared, with time to spare",
+        "I usually remember most things",
+        "I often have to make last-minute adjustments",
+        "Surprise? Was that today?!"
+      ]
+    },
+
+    {
+      "id": 3,
+      "title": "Impulsivity",
+      "question": "Your crush suggests a spontaneous weekend getaway. How likely are you to say yes and figure out the details later?",
+      "options": [
+        "I'd need to carefully consider it first",
+        "I might say yes if I can quickly check my schedule",
+        "I'd probably say yes and worry about details later",
+        "I'm already packing my bags!"
+      ]
+    },
+
+    {
+      "id": 4,
+      "title": "Restlessness or Hyperactivity",
+      "question": "You're watching a romantic movie at home with your date. How challenging is it for you to sit through the entire film without fidgeting or wanting to do something else?",
+      "options": [
+        "I can easily relax and enjoy the whole movie",
+        "I might shift positions or check my phone once or twice",
+        "I often need to take breaks or multitask",
+        "Sitting still for a whole movie?"
+      ]
+    }
+  ]

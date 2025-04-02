@@ -2,8 +2,10 @@
 
 *Elisava Barcelona School of Design and Engineering - Master in Human Interaction and AI*
 
-*Final group project*
+*Final group project by Matilde Ghidini, Andres Nieto Noi, Sol Ruiz Bastida an Cisem Melike Sahpaz*
 
 
 ## VIVI CHATBOT
-Develop an AI chatbot
+Develop a web application that integrates an AI chatbot.
+
+HTML, CSS and Javascript were used to build the lading page and the chatbot was implemented using the OpenAI API.
